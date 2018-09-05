@@ -15,7 +15,7 @@ h1 {
 .testL{
   position: fixed;
   text-align: left;
-  width: 50%;
+  width: 25%;
   right:0; 
   left:0; 
 }
@@ -31,9 +31,9 @@ h1 {
 .testR{
   position: fixed;
   text-align: right;
-  margin-left: 48%;
+  margin-left: 73%;
   margin-right: 50px;
-  width: 50%;
+  width: 25%;
   padding-right: 20px;
   right:0; 
   left:0; 
