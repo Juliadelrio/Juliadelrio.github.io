@@ -73,6 +73,11 @@ a {
   /*color: dodgerblue;*/
   /*color: black;*/
 } 
+a.titulo { 
+  color: black;
+  /*color: dodgerblue;*/
+  /*color: black;*/
+} 
 
 p {
   color: black;
