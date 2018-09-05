@@ -1,0 +1,161 @@
+body {/*background-color: powderblue;*/}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  padding-top: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 50px;
+  font-size: 30px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+    
+}
+.testL{
+  position: fixed;
+  text-align: left;
+  right:0; 
+  left:0; 
+}
+
+.testC{
+  color: red;
+  position: fixed;
+  text-align: center;
+  right:0; 
+  left:0; 
+}
+
+.testR{
+  position: fixed;
+  text-align: right;
+  right:0; 
+  left:0; 
+}
+
+.menuL {
+  position: fixed;
+  text-align: left;
+  right:0; 
+  left:0; 
+  margin-top: 25px;
+}
+
+.menuR {
+  position: fixed;
+  text-align: right;
+  right:0; 
+  left:0; 
+  margin-top: 25px;
+}
+
+.sub  {
+  position: fixed;
+  /*color: grey;*/
+  color: red;
+  font-size: 125%;
+  bottom: 0px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-align: center; 
+  right:0; 
+  left:0; 
+}
+
+a { 
+  color: red;
+  /*color: dodgerblue;*/
+  /*color: black;*/
+} 
+
+p {
+  color: black;
+  /*font-family: courier;
+  font-size: 160%;*/
+  padding: 0px;
+  font-size: 125%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+span.text{
+  color:black;
+}
+p.text  {
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 125%;
+  text-align: justify;
+  width: 750px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p.imgvertical  {
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 90%;
+  text-align: justify;
+  width: 325px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p.textabout  {
+  color: black;
+  margin-top: 60px;
+  margin-bottom: 80px;
+  font-size: 100%;
+  text-align: justify;
+  width: 650px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p.pie{
+  font-family: Times New Roman;
+  font-style: italic; 
+  text-align: right;
+  color: grey;
+  font-size: 90%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  width: 750px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p.pievertical{
+  font-family: Times New Roman;
+  font-style: italic; 
+  text-align: right;
+  color: grey;
+  font-size: 90%;
+  margin-bottom: 0px;
+  width: 325px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.bloque{
+  padding-top: 25px;
+  padding-bottom: 60px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.bloqueAbout{
+  padding-top: 150px;
+  margin-left: 0%;
+}
+
+.imageblock {
+  margin-right: auto;
+  margin-top: auto;
+}
+
+
+
+
